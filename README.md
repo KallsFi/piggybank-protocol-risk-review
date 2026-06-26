@@ -14,10 +14,9 @@ This is a public-source due-diligence review. It is not investment, financial, l
 
 Third-party allegations are treated as allegations unless independently corroborated.
 
-## Files
+## File
 
 * `PiggyBank_Protocol_Independent_Public_Source_Risk_Review.pdf` — final publication PDF.
-* `source/PiggyBank_Protocol_Independent_Public_Source_Risk_Review.docx` — editable source document.
 
 ## Author
 
